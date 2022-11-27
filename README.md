@@ -8,4 +8,4 @@ log.txt, log file saves all the keystrokes, saving also the date and time when t
 If it does not work, disable the the antivirus to make it work, when this file is created the system detects it as malicious.
 
 DISCLAIMER
-
+This script is for educational purposes. I'm not responsible for the use of this script.
